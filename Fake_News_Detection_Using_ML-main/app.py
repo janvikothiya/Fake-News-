@@ -111,7 +111,7 @@ if submit_button:
 
 st.sidebar.markdown("### About")
 st.sidebar.info("""
-    **Developer:** Jitu Kumar  
+    **Developer:** kothiya janvi
     **University:** Usha Martin University, Ranchi Jharkhand  
 
     This application is built using Streamlit and applies Logistic Regression on TF-IDF features extracted from the news text.  
